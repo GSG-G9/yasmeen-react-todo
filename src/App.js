@@ -1,9 +1,9 @@
-import './App.css';
+
 
 function App() {
   return (
     <div className="App">
-     hello
+     this is just for test
     </div>
   );
 }
