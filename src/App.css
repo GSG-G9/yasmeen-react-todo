@@ -1,0 +1,35 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.App {
+    width: 400px;
+    height:400px;
+    margin:100px  auto;
+    border:2px solid #46a049;
+}
+.header{
+    height: 50px;
+    background-color: #46a049;
+}
+.fa {
+    font-size: 25px;
+    padding: 5px;
+    color: #fff ;
+}
+.add-task {
+    color : green;
+}
+.todo-list{
+    list-style: none;
+  width: 200px;
+  max-width: auto; 
+}
+.todo-list-item{
+    margin-top: 5px;
+    border:1px solid #46a049;
+    padding: 10px;
+    color : #fff;
+    background-color: #46a049;
+}
